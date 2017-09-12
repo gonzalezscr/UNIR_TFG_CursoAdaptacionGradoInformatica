@@ -1,7 +1,7 @@
 # UNIR_TFG_CursoAdaptacionGradoInformatica
-Universidad Internacional de la Rioja - Trabajo de Final de Grado de Ingeniería de Informática
+Universidad Internacional de la Rioja - Trabajo de Final de Grado del Curso de Adaptación de Ingeniería de Informática
 
-El Trabajo de Final de Grado de Ingeniería Informática consiste en el desarrollo de un Buscador y Administrador de servicios de vivienda en la provincia de Barcelona.
+El Trabajo de Final de Grado consiste en el desarrollo de un Buscador y Administrador de servicios de vivienda en la provincia de Barcelona.
 
 Está desarrollado en Liferay 6.2
 
